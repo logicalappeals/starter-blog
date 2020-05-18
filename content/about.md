@@ -1,9 +1,10 @@
 ---
 title: About
-date: 2019-07-09
+date: 2019-07-09T00:00:00.000Z
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A blog about new developments in the news and the law - [Logical Appeals](https://logicalappeals.com).
 
 ## How to use?
 
