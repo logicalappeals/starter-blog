@@ -9,13 +9,13 @@ draft: true
 ---
 <p>On Thursday, May 7, 2020, the Texas Supreme Court ordered the release of salon owner, Shelley Luther, who was jailed for re-opening her salon in violation of the state's stay at home order.</p>
 
+<!-- excerpt -->
+
 <p>Recently, Texas governor, Greg Abbott, issued an <a rel="noreferrer noopener" href="https://www.msn.com/en-us/news/us/abbott-no-jail-time-for-texas-business-owners-who-violated-coronavirus-related-orders/ar-BB13Kle8" target="_blank">executive order</a> retroactively terminating jail time as a punishment for violating the state's Wuhan-Coronavirus restrictions.</p>
 
 <p>Following governor Abbott's announcement, <a rel="noreferrer noopener" href="https://www.txcourts.gov/supreme/orders-opinions/2020/may/may-7-2020/" target="_blank">the Supreme Court of Texas ordered </a>the salon owner's release.  Luther applied to the Texas Supreme Court for a Writ of Habeas Corpus in Case No. 20-0363; IN RE SHELLY LUTHER.  Luther argued that she was being illegally restrained by virtue of a contempt order issued by the 14th District Court of Dallas County, Texas.</p>
 
-
 <p>Judge Eric Moye originally sentenced the hair salon owner to seven days in jail and a $7,000 fine for re-opening her salon in defiance of the state's lockdown orders.</p>
-
 
 <p>Judge Moye told Ms. Luther that although her decision was “selfish,” she could <a href="https://www.nationalreview.com/news/texas-judge-sentences-salon-owner-to-jail-time-after-she-refuses-to-apologize-for-selfish-decision-to-open/" target="_blank" rel="noreferrer noopener">avoid jail time if she apologized</a> for her wrongthink and admitted wrongdoing.</p>
 
