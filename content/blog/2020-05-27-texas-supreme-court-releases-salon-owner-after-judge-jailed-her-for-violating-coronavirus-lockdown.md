@@ -5,7 +5,7 @@ date: 2020-05-27T15:34:11.294Z
 image: /images/shelly-luther.png
 tags:
   - "#appeals"
-draft: true
+draft: false
 ---
 <p>On Thursday, May 7, 2020, the Texas Supreme Court ordered the release of salon owner, Shelley Luther, who was jailed for re-opening her salon in violation of the state's stay at home order.</p>
 
