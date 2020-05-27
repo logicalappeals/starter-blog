@@ -10,6 +10,8 @@ draft: false
 ---
 <p>The United States Supreme Court recently held in <em><a rel="noreferrer noopener" href="https://www.supremecourt.gov/opinions/19pdf/18-5924_n6io.pdf" target="_blank">Ramos v. Louisiana</a></em> that the Sixth Amendment right to a jury trial, as incorporated against the states, requires a unanimous verdict to convict a defendant of a serious offense. </p>
 
+<!-- excerpt -->
+
 <h2>Facts of the Ramos case</h2>
 
 <p>Defendant, <a href="https://www.wdsu.com/article/man-arrested-in-killing-of-woman-found-in-central-city-garbage-can/3375531#" target="_blank" rel="noreferrer noopener">Evangelisto Ramos</a> was charged with second degree murder.  The Defendant exercised his right to a jury trial.  The jury deliberated and ten of the twelve jurors voted to convict the Defendant, finding that the prosecution had proven its case against the defendant beyond a reasonable doubt. Two jurors reached the opposite conclusion.</p>
