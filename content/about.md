@@ -6,16 +6,10 @@ draft: false
 ---
 > A blog about new developments in the news and the law - [Logical Appeals](https://logicalappeals.com).
 
-## How to use?
+## More than just appeals
 
-### Managing content with [Forestry](https://forestry.io)
+### Logical Appeals Goes Deep on Issues that Matter
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+[Follow us on twitter](twitter.com/logicalappeals) - To reach us, send us a DM
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+![logical appeals](/images/lambda.png "logical appeals")
