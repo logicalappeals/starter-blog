@@ -1,6 +1,6 @@
 # The Butler
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+>  powered by [Logical Appeals](https://logicalappeals.com).
 
 ![Cecil preview](static/images/cecil-preview.png)
 
