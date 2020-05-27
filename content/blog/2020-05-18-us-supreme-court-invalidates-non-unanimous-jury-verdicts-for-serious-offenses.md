@@ -21,3 +21,5 @@ draft: false
 <h3>Statement of the case</h3>
 
 <p>Ramos appealed the district court's conviction. The state appellate court affirmed the lower (district) court's ruling. The Louisiana Supreme Court denied review so the defendant applied for certiorari to the United States Supreme Court.  The Supreme Court granted certiorari, and found in favor of the defendant.  </p>
+
+> Source: https://www.supremecourt.gov/opinions/19pdf/18-5924_n6io.pdf
