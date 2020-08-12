@@ -1,6 +1,6 @@
 ---
 title: Does Ramos Apply Retroactively to State Cases on Collateral Review?
-date: 2020-08-12T15:01:25.812Z
+date: 2020-08-12T15:23:13.357Z
 image: /images/vannoy.jpg
 tags:
   - Ramos
