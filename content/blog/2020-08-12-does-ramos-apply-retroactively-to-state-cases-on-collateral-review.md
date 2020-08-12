@@ -4,8 +4,6 @@ date: 2020-08-12T15:01:25.812Z
 image: /images/vannoy.jpg
 draft: true
 ---
-
-
 The United States Supreme Court recently granted cert. in *[Edwards v. Vannoy](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/19-5807.html)*, Warden, ––– U.S. ––––, ––– S.Ct. ––––, ––– L.Ed.2d ––––, 2020 WL 2105209 (Mem).  *Edwards* is set to decide the issue regarding whether *[Ramos](https://www.supremecourt.gov/opinions/19pdf/18-5924_n6io.pdf)* applies retroactively to Federal cases on collateral review.
 
 Nevertheless, does *Ramos* apply retroactively to state cases on collateral review? For these reasons, we believe it does not:
